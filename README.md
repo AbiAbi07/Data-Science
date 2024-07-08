@@ -1,7 +1,9 @@
 # Data-Science
 **Data visualization**
    1.Visualization  in the context of data or information, refers to the graphical representation of data or concepts.
+   
    2.It aims to present information in a way that is clear, understandable, and insightful, often leveraging visual elements such as charts, graphs, maps, or diagrams. 
+  
    3.The primary goal of visualization is to communicate complex data or ideas efficiently, enabling viewers to grasp patterns, trends, relationships, and insights that might be less 
      apparent in raw data or text form.
 
